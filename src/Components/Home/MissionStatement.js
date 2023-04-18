@@ -12,9 +12,9 @@ function MissionStatement (){
                                             </div>
 
                                             <div className = "text-left font-medium text-gray-700 h-12">
-                                                <li> lead teams </li>
-                                                <li> Scale products </li>
-                                                <li> Build Amazing Teams</li>
+                                                <li> Build Amazing Teams </li>
+                                                <li> Scale programs </li>
+                                                <li> Leave projects better than I found them </li>
                                             </div>
 
                                             </div>
@@ -25,7 +25,7 @@ function MissionStatement (){
                                             <div className = "text-left font-medium text-gray-700 h-12">
                                                 <li> JIRA </li>
                                                 <li> FIGMA </li>
-                                                <li> Trello </li>
+                                                <li> Confluence </li>
                                             </div>
                                         </div>
 

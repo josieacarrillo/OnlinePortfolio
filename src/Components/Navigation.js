@@ -3,16 +3,16 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
-import me from '../images/me.jpeg'
+import me from '../images/me.png'
 
 
 function Navigation(){
     return (
 
-
+<header>
         <nav className ="flex justify-between space-x-4 pt-2 bg-white px-2 sm:px-4 py-2.5 dark:bg-gray-900 fixed w-full z-20 top-0 left-0  border-gray-200 dark:border-gray-600s">
           <a href="/" class="px-3 py-2 text-base font-thin text-gray-500 hover:text-gray-900">
-            <img class = "rounded-full" src={me} alt="profile pic" width={30} height={30}  />
+            <img class = "rounded-full" src={me} alt="profile pic" width={35} height={35}  />
           </a>
           <div className = "flex justify-center">
           <a href="#about" class=" px-3 py-2 text-base font-thin text-gray-500 hover:text-gray-900">
@@ -50,7 +50,7 @@ function Navigation(){
             </a>
           </div>
         </nav>
-
+</header>
 
     )
 }

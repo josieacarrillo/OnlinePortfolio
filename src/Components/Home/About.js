@@ -12,21 +12,18 @@ function About () {
                             <h1 className = "text-3xl font-medium text-gray-700 mt-8">
                             About Me
                             </h1>
-                            <p className = "mt-6 text-base text-zinc-600 dark:text-zinc-400">
-                            Im currently on track to graduate with my Bachelors in May. I have 4 internships under my belt. Im focusing on program management.
-                            I am a former SDE and love all things organization, collaboration and communication!
+                            <p className = "mt-6 text-base text-gray-700 dark:text-zinc-400">
+                            I am a soon-to-be college graduate with a Bachelors in Computer Science. I have racked up 4 internships under my belt.
+                            I am a former SDE, turned Technical Program Manager and love all things organization, collaboration and communication!
 
                             </p>
-                            <p className = "mt-6 text-base text-zinc-600 dark:text-zinc-400">
-                            I've spent 4 years discovering my true passion - and its in project management. A space where my vision can come to life through amazing and talented engineers.
+                            <p className = "mt-6 text-base text-gray-700 dark:text-zinc-400">
+                            I will forever be grateful for launching my career at Amazon as an Amazon Future Engineer SDE intern, after a semester in Computer Science.
+                            They saw the gold in me, and really ignited that passion for launching, communicating, and managing projects.
                             </p>
-                            <p className = "mt-6 text-base text-zinc-600 dark:text-zinc-400">
-                            I love learning new tools that'll benefit everyone.
-
+                            <p className = "mt-6 text-base text-gray-700 dark:text-zinc-400">
+                            I will never despise small beginnings, in fact I take joy in the process of growth. I threw myself in corporate America at 18, and learned so much on the job. I will always advocate for stepping out in Faith and testing your limits.  Which is why I firmly believe I am in the correct industry and position. I would love to partner with anyone who is passionate for the same growth!
                             </p>
-                            <div className = "pt-4">
-                                <button onclick= "" type="button" class="py-2 px-3 mr-2 mb-2 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-full border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">My Resume</button>
-                            </div>
                         </div>
                     </div>
                 </div>
