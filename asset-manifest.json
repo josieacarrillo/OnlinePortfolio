@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/OnlinePortfolio/static/css/main.a5d1dd49.css",
+    "main.js": "/OnlinePortfolio/static/js/main.462941f9.js",
+    "static/js/787.3ba5e41c.chunk.js": "/OnlinePortfolio/static/js/787.3ba5e41c.chunk.js",
+    "static/media/expedia.JPG": "/OnlinePortfolio/static/media/expedia.7366e0fe2db5c817422f.JPG",
+    "static/media/amazon.jpg": "/OnlinePortfolio/static/media/amazon.d54ee35dd2dd13e43006.jpg",
+    "static/media/tiktok.png": "/OnlinePortfolio/static/media/tiktok.9c7218ea3309552cac12.png",
+    "static/media/youth.JPG": "/OnlinePortfolio/static/media/youth.d00331ca264e49e5b425.JPG",
+    "static/media/serviceDirect.jpg": "/OnlinePortfolio/static/media/serviceDirect.d9bd4a97d747bc70a595.jpg",
+    "static/media/me.png": "/OnlinePortfolio/static/media/me.eaa5951d6fcd517c51f0.png",
+    "static/media/book.jpeg": "/OnlinePortfolio/static/media/book.27e4598c408fbdda7f31.jpeg",
+    "static/media/amazonlogo.svg": "/OnlinePortfolio/static/media/amazonlogo.8bc73011ac6f4739b200a26d1eadf6f6.svg",
+    "static/media/ExpediaLogo.svg": "/OnlinePortfolio/static/media/ExpediaLogo.8d1231bafee4a319bb575d41c919cae2.svg",
+    "index.html": "/OnlinePortfolio/index.html",
+    "main.a5d1dd49.css.map": "/OnlinePortfolio/static/css/main.a5d1dd49.css.map",
+    "main.462941f9.js.map": "/OnlinePortfolio/static/js/main.462941f9.js.map",
+    "787.3ba5e41c.chunk.js.map": "/OnlinePortfolio/static/js/787.3ba5e41c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5d1dd49.css",
+    "static/js/main.462941f9.js"
+  ]
+}
